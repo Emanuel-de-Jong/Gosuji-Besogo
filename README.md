@@ -7,3 +7,4 @@ A clone of Besogo, the web Go board, with personal changes for [Gosuji](https://
 | | |
 | :---: | :---: |
 | ![](/Screenshots/1-Board.png) | ![](/Screenshots/.png) |
+ 
